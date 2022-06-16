@@ -1,0 +1,15 @@
+{
+  "gelf_port": 12202,
+  "experiments": [
+    {
+      "name": "bivalent",
+      "alpha": [0.6, 0.7, 0.8],
+      "alpha2": [0.5],
+      "total_size": 10000,
+      "distribution": [0, 5001, 4999],
+      "repetitions": 50,
+      "look_ahead": 30,
+      "node_query_size": 9
+    }
+  ]
+}
