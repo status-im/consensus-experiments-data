@@ -1,0 +1,16 @@
+{
+  "gelf_port": 12202,
+  "experiments": [
+    {
+      "name": "random",
+      "alpha": [0.8],
+      "alpha2": [0.5],
+      "total_size": 10000,
+      "distribution": [10000, 0, 0],
+      "repetitions": 50,
+      "random_range": [1000, 4801, 100],
+      "look_ahead": 30,
+      "node_query_size": 9
+    }
+  ]
+}
